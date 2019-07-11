@@ -1,0 +1,1 @@
+-n FEM_Nodes.txt -e FEM_Elem.txt -b FEM_DirichletBC.txt -v FEM_NeumannBC.txt -d 1 -s 1  -x 21 -y 21  -k 2 -3 1
