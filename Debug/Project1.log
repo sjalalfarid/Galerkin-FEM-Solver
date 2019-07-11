@@ -1,0 +1,8 @@
+﻿  FEM_BasisFunctions.cpp
+  FEM_Main.cpp
+  FEM_MatrixAssembly.cpp
+  FEM_SourceTerm.cpp
+  Generating Code...
+FEM2017.lib(FEM_CommandLineFilter.obj) : warning LNK4099: PDB 'FEM2017.pdb' was not found with 'FEM2017.lib(FEM_CommandLineFilter.obj)' or at 'D:\University of Auckland\Semester 1 2019\Computational Techniques in Mechanics and Bioengineering\FEM-II Assignment 1\Task 1\Project1\Debug\FEM2017.pdb'; linking object as if no debug info
+FEM2017.lib(FEM_MatrixOperations.obj) : warning LNK4099: PDB 'FEM2017.pdb' was not found with 'FEM2017.lib(FEM_MatrixOperations.obj)' or at 'D:\University of Auckland\Semester 1 2019\Computational Techniques in Mechanics and Bioengineering\FEM-II Assignment 1\Task 1\Project1\Debug\FEM2017.pdb'; linking object as if no debug info
+  Project1.vcxproj -> D:\University of Auckland\Semester 1 2019\Computational Techniques in Mechanics and Bioengineering\FEM-II Assignment 1\Task 1\Project1\Debug\Project1.exe
